@@ -15,6 +15,7 @@
     <td><img src="https://img1.github.io/tmp/9.jpg" height="82" width="82"></td>
   </tr>
 </table>
+
 # AI-and-Person-ReID
 这个项目主要存放行人再识别相关的AI基础知识以及行人再识别相关的知识对应的视屏，图书，代码等学习资料。   
 **这些资料在这个仓库中的存放路径和以下知识结构的层次相同**
