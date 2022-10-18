@@ -17,6 +17,7 @@
 1. Cross-Entropy Loss
 2. Triplet Loss
 #### Trick
+建议读这些Trick对应的论文了解这些方法提出的动机能够帮助你更好的理解它们，这些论文一般通俗易懂。不建议看博客的总结！！！
 1. Bacth Normalization
 2. Layer Normalization
 ## 行人再识别
