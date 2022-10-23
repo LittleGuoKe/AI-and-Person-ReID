@@ -34,8 +34,9 @@
 1. ResNet
 2. Transformer
 #### 常用的Loss Function
-1. Cross-Entropy Loss
-2. Triplet Loss
+1. Cross-Entropy Loss （分类任务）
+2. Triplet Loss （度量学习）
+3. Focal Loss (解决类别不平衡)
 #### Trick
 建议读这些Trick对应的论文了解这些方法提出的动机能够帮助你更好的理解它们，这些论文一般通俗易懂。不建议看博客的总结！！！
 1. Bacth Normalization
