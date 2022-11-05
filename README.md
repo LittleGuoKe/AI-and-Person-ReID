@@ -33,7 +33,7 @@
 2. 图书：[Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf). 这本书可以配合这吴老师的视屏课看，也可以当作工具书。
 #### 经典模型
 1. ResNet
-2. Transformer
+2. Transformer（及其相关的自监督学习）
 #### 常用的Loss Function
 1. Cross-Entropy Loss （分类任务）
 2. Triplet Loss （度量学习）
