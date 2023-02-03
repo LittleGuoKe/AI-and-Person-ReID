@@ -1,21 +1,3 @@
-<table border="0" width="10%">
-  <tr>
-    <td><img src="https://img1.github.io/tmp/1.jpg" height="80" width="82"></td>
-    <td><img src="https://img1.github.io/tmp/2.jpg" height="80" width="82"></td>
-    <td><img src="https://img1.github.io/tmp/3.jpg" height="80" width="82"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img1.github.io/tmp/4.jpg" height="80" width="82"></td>
-    <td><img src="https://img.shields.io/github/stars/LittleGuoKe/AI-and-Person-ReID?style=social"></td>
-    <td><img src="https://img1.github.io/tmp/6.jpg" height="82" width="82"></td>
-  </tr>
-   <tr>
-    <td><img src="https://img1.github.io/tmp/7.jpg" height="82" width="82"></td>
-    <td><img src="https://img1.github.io/tmp/8.jpg" height="82" width="82"></td>
-    <td><img src="https://img1.github.io/tmp/9.jpg" height="82" width="82"></td>
-  </tr>
-</table>
-
 # AI-and-Person-ReID 简介
 这个项目主要存放行人再识别相关的AI基础知识以及行人再识别相关的知识对应的视屏，图书，代码等学习资料。   
 **这些资料在这个仓库中的存放路径和以下知识结构的层次相同**
